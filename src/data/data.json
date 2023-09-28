@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "titulo": "Harry Potter y la piedra filosofal",
+        "descripcion": "La primera entrega de la saga de Harry Potter.",
+        "categoria": "Libros",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170803558l/72193.jpg",
+        "precio": 7000.00,
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "titulo": "Harry Potter y la cámara secreta",
+        "descripcion": "La segunda entrega de la saga de Harry Potter.",
+        "categoria": "Libros",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474169725i/15881.jpg",
+        "precio": 7000.00,
+        "stock": 100
+    },
+    {
+        "id": 3,
+        "titulo": "Harry Potter y el prisionero de Azkaban",
+        "descripcion": "La tercera entrega de la saga de Harry Potter.",
+        "categoria": "Libros",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630547330i/5.jpg",
+        "precio": 7000.00,
+        "stock": 100
+    },
+    {
+        "id": 4,
+        "titulo": "Harry Potter y el cáliz de fuego",
+        "descripcion": "La cuarta entrega de la saga de Harry Potter.",
+        "categoria": "Libros",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554006152i/6.jpg",
+        "precio": 7000.00,
+        "stock": 100
+    },
+    {
+        "id": 5,
+        "titulo": "Harry Potter y la Orden del Fénix",
+        "descripcion": "La quinta entrega de la saga de Harry Potter.",
+        "categoria": "Libros",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546910265i/2.jpg",
+        "precio": 7000.00,
+        "stock": 100
+    },
+    {
+        "id": 6,
+        "titulo": "Harry Potter y el misterio del príncipe",
+        "descripcion": "La sexta entrega de la saga de Harry Potter.",
+        "categoria": "Libros",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587697303i/1.jpg",
+        "precio": 7000.00,
+        "stock": 100
+    },
+    {
+        "id": 7,
+        "titulo": "Harry Potter y las Reliquias de la Muerte",
+        "descripcion": "La séptima y última entrega de la saga de Harry Potter.",
+        "categoria": "Libros",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663805647i/136251.jpg",
+        "precio": 7000.00,
+        "stock": 100
+    },
+    {
+        "id": 8,
+        "titulo": "Animales fantásticos y dónde encontrarlos",
+        "descripcion": "Un libro de la biblioteca de Hogwarts escrito por Newt Scamander.",
+        "categoria": "Libros",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482028900i/33407370.jpg",
+        "precio": 7000.00,
+        "stock": 50
+    },
+    {
+        "id": 9,
+        "titulo": "Quidditch a través de los tiempos",
+        "descripcion": "Un libro de la biblioteca de Hogwarts escrito por Kennilworthy Whisp.",
+        "categoria": "Libros",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308104691i/9395411.jpg",
+        "precio": 7000.00,
+        "stock": 50
+    }
+]

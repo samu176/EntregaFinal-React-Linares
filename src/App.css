@@ -4,6 +4,45 @@
   text-align: center;
 }
 
+.container {
+  max-width: 1140px;
+  padding-inline: 1.5rem;
+  margin: 0 auto;
+}
+
+.main-title {
+  margin-top: 2rem;
+}
+
+.productos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  padding-block: 2rem;
+}
+
+.producto {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.producto > div {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.producto > img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.producto .ver-detalles {
+  padding: .5rem;
+  width: max-content;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
