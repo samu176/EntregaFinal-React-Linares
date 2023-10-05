@@ -40,7 +40,7 @@
         "titulo": "Harry Potter y la Orden del Fénix",
         "descripcion": "La quinta entrega de la saga de Harry Potter.",
         "categoria": "peliculas",
-        "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546910265i/2.jpg",
+        "imagen": "https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/71/59/76/20051490.jpg",
         "precio": 7000.00,
         "stock": 100
     },
@@ -49,7 +49,7 @@
         "titulo": "Harry Potter y el misterio del príncipe",
         "descripcion": "La sexta entrega de la saga de Harry Potter.",
         "categoria": "peliculas",
-        "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587697303i/1.jpg",
+        "imagen": "https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/67/05/06/19138964.jpg",
         "precio": 7000.00,
         "stock": 100
     },
@@ -57,7 +57,7 @@
         "id": 7,
         "titulo": "Harry Potter y las Reliquias de la Muerte",
         "descripcion": "La séptima y última entrega de la saga de Harry Potter.",
-        "categoria": "peliculas",
+        "categoria": "libros",
         "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663805647i/136251.jpg",
         "precio": 7000.00,
         "stock": 100
@@ -67,7 +67,7 @@
         "titulo": "Animales fantásticos y dónde encontrarlos",
         "descripcion": "Un libro de la biblioteca de Hogwarts escrito por Newt Scamander.",
         "categoria": "peliculas",
-        "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482028900i/33407370.jpg",
+        "imagen": "https://es.web.img3.acsta.net/c_310_420/pictures/16/09/28/17/19/570746.jpg",
         "precio": 7000.00,
         "stock": 50
     },
@@ -75,7 +75,7 @@
         "id": 9,
         "titulo": "Quidditch a través de los tiempos",
         "descripcion": "Un libro de la biblioteca de Hogwarts escrito por Kennilworthy Whisp.",
-        "categoria": "peliculas",
+        "categoria": "libros",
         "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308104691i/9395411.jpg",
         "precio": 7000.00,
         "stock": 50
