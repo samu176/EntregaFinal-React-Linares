@@ -1,10 +1,9 @@
-import {BsCartCheck} from 'react-icons/bs'
+import { Link } from "react-router-dom";
 
 const CartWidget = () => {
   return (
     <div>
-      <BsCartCheck />
-      <span>5</span>
+      <Link className="menu-link" to="/carrito">Carrito</Link>
     </div>
   );
 };

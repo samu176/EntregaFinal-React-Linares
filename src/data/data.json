@@ -6,7 +6,7 @@
         "categoria": "libros",
         "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170803558l/72193.jpg",
         "precio": 7000.00,
-        "stock": 100
+        "stock": 8
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "categoria": "libros",
         "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474169725i/15881.jpg",
         "precio": 7000.00,
-        "stock": 100
+        "stock": 8
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "categoria": "libros",
         "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630547330i/5.jpg",
         "precio": 7000.00,
-        "stock": 100
+        "stock": 8
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "categoria": "libros",
         "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554006152i/6.jpg",
         "precio": 7000.00,
-        "stock": 100
+        "stock": 8
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "categoria": "peliculas",
         "imagen": "https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/71/59/76/20051490.jpg",
         "precio": 7000.00,
-        "stock": 100
+        "stock": 8
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "categoria": "peliculas",
         "imagen": "https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/67/05/06/19138964.jpg",
         "precio": 7000.00,
-        "stock": 100
+        "stock": 8
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "categoria": "libros",
         "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663805647i/136251.jpg",
         "precio": 7000.00,
-        "stock": 100
+        "stock": 8
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "categoria": "peliculas",
         "imagen": "https://es.web.img3.acsta.net/c_310_420/pictures/16/09/28/17/19/570746.jpg",
         "precio": 7000.00,
-        "stock": 50
+        "stock": 8
     },
     {
         "id": 9,
@@ -78,6 +78,6 @@
         "categoria": "libros",
         "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308104691i/9395411.jpg",
         "precio": 7000.00,
-        "stock": 50
+        "stock": 8
     }
 ]
